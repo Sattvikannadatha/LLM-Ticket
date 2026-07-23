@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+python-docx
+langchain-google-genai
+langchain-experimental
+transformers
+torch
+requests
